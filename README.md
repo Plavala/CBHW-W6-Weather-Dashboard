@@ -27,8 +27,8 @@ THEN I am again presented with current and future conditions for that city
 
 ### Installing and Opening file
 
-- GitHub: 
-- GitHub live:   
+- GitHub: https://github.com/Plavala/CBHW-W6-Weather-Dashboard
+- GitHub live:  https://plavala.github.io/CBHW-W6-Weather-Dashboard/ 
 - Clone GitHub repository provided
 - Open with VScode or any Code reader that works similar to VScode.
 - Right click file index.html and select "open with live server"
